@@ -1,0 +1,9 @@
+---
+- name: SunOS additional facts collect
+  sunos_facts:
+  tags:
+    - always
+    - sunos
+    - facts
+    - config
+...
